@@ -1,0 +1,45 @@
+.about {
+    display: flex;
+    padding: 0 7rem;
+    gap: 10rem;
+}
+
+.left-a {
+    flex: 1 1;
+    display: flex;
+    padding: 4rem 7rem;
+    color: white;
+    font-weight: bold;
+    position: relative;
+    flex-direction: column;
+}
+
+.left-a>div>h2 {
+    font-size: 45px;
+}
+
+.left-a>p {
+    font-size: 22px;
+    font-weight: normal;
+    margin-left: 0.5rem;
+}
+
+.left-a>span {
+    font-size: 16px;
+    font-weight: 200;
+    text-transform: uppercase;
+    color: gray;
+}
+
+.right-a {
+    flex: 1 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.right-a>img {
+    border: 2px solid white;
+    border-radius: 50%;
+}
