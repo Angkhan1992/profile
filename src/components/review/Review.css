@@ -73,10 +73,11 @@
 }
 
 .review-c {
+    font-style: italic;
+    font-size: 0.9rem;
     overflow: hidden;
     text-overflow: ellipsis;
     display: -webkit-box;
     -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    font-style: italic;
+    -webkit-box-orient: vertical;    
 }

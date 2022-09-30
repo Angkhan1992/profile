@@ -7,7 +7,7 @@ import star from '../../assets/img/star.svg'
 const Review = () => {
     return (
         <div className="reviews" id='reviews'>
-            <div className="reviews-header">Client's<span className='stroke-text'> Reviews</span></div>
+            <div className="reviews-header">Client's <span className='stroke-text'> What to say?</span></div>
             <div className="reviews-content">
                 {reviewsData.map((review) => (
                     <div className="review">

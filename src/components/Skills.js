@@ -30,7 +30,7 @@ export const Skills = () => {
         <div className="row">
           <div className="col-12">
             <div className="skill-bx wow zoomIn">
-              <h2>MAIN <span className="stroke-text">Skills</span></h2>
+              <h2>WHY <span className="stroke-text">Choose</span> ME?</h2>
               {skillData.header}
               <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                 {skillData.categories.map((skill) => (
