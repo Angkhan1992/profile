@@ -17,7 +17,7 @@ export const Footer = () => {
               <a href="https://www.upwork.com/freelancers/~013bb6a46a263a687c?viewMode=1"><img src={upwork} alt="Icon" style={{ width: '20px' }} /></a>
               <a href="https://github.com/Angkhan1992?tab=repositories"><img src={github} alt="Icon" style={{ width: '20px' }} /></a>
             </div>
-            <p>@2020-2022 Angkhan Bouasavanh</p>
+            <p>@2021-2023 Angkhan Bouasavanh</p>
           </Col>
         </Row>
       </Container>
